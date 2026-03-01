@@ -1,0 +1,16 @@
+lsblk
+
+sudo fdisk /dev/xvdf
+n
+p
+1
+<enter>
+<enter>
+w
+
+sudo mkfs.ext4 /dev/xvdf1
+
+sudo mkdir /mnt/data
+sudo mount /dev/xvdf1 /mnt/data
+
+df -h
