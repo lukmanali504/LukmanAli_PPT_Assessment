@@ -1,4 +1,4 @@
-# Task 4: Hybrid Architecture Simulation (Bastion Host)
+# Advandced Task 4: Hybrid Architecture Simulation (Bastion Host)
 
 ## Objective
 To simulate a secure on-premise to cloud network architecture using a Bastion Host (Jump Server) to access isolated private resources.
