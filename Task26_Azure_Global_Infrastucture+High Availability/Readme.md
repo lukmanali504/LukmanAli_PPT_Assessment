@@ -1,4 +1,4 @@
-# Task 2: Azure Global Infrastructure + High Availability
+# Advanced Task 2: Azure Global Infrastructure + High Availability
 
 ## Objective
 To deploy a highly available Virtual Machine infrastructure using Availability Sets, Availability Zones, Load Balancers, and Azure Monitor.
